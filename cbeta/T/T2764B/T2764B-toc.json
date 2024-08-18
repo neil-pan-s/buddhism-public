@@ -1,0 +1,12 @@
+{
+  "num_found": 1,
+  "time": 0.000411174,
+  "results": [
+    {
+      "mulu": [
+        { "title": "憍陳如品", "file": "T85n2764B", "juan": 4, "lb": "0301a09", "type": "品" }
+      ],
+      "juan": [{ "file": "T85n2764B", "juan": 4, "lb": "0294a13", "title": "第四" }]
+    }
+  ]
+}

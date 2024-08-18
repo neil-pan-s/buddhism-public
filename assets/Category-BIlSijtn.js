@@ -1,0 +1,1 @@
+import{_ as e,a,b as t,o as c}from"./index-CSBJWnQd.js";const n={};function s(o,_){const r=t;return c(),a(r,{category:o.$route.params.category,works:o.$route.params.works},null,8,["category","works"])}const u=e(n,[["render",s]]);export{u as default};
