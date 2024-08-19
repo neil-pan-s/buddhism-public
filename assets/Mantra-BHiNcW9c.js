@@ -1,4 +1,4 @@
-import{a as n,o as s,f as i}from"./index-CHaEzqUN.js";const p={__name:"Mantra",setup(e){const a=[{title:"常颂经咒-序言",text:`
+import{a as n,o as s,f as i}from"./index-C2RCrgSA.js";const p={__name:"Mantra",setup(e){const a=[{title:"常颂经咒-序言",text:`
     <center style="font-size: 16px">
       <img src="/icons/favicon.svg" style="width: 128px;" />
       <h3>佛经与咒言  从本质上说  都是佛教的修行法门</h3>其目的都是 <span class="highlight">教世人如何 出离世间苦海  成就佛道</span> 
