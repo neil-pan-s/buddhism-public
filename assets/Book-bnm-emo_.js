@@ -1,1 +1,0 @@
-import{u as c,r,w as u,d as _,a as l,e as p,f as i,o as k}from"./index-C2RCrgSA.js";const b={__name:"Book",setup(m){const o=c(),s=r([]);async function t(){const e=o.params.work,n=o.params.juan||"001",a=await p.book(e,n);s.value=[a]}return u(()=>o.params,t),_(t),(e,n)=>{const a=i;return k(),l(a,{ref:"book",articles:s.value},null,8,["articles"])}}};export{b as default};
