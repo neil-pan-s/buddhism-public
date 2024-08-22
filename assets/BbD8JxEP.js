@@ -1,0 +1,1 @@
+import{_ as e,i as a,h as t,o as c}from"./index-C45KG0hn.js";const n={};function s(o,_){const r=t;return c(),a(r,{category:o.$route.params.category,works:o.$route.params.works},null,8,["category","works"])}const u=e(n,[["render",s]]);export{u as default};
