@@ -1,1 +1,0 @@
-import{u as c,r,j as u,k as _,i as l,l as p,m as i,o as k}from"./index-CQdTJmjs.js";const b={__name:"Book",setup(m){const o=c(),s=r([]);async function t(){const n=o.params.work,e=o.params.juan||"001",a=await p.book(n,e);s.value=[a]}return u(()=>o.params,t),_(t),(n,e)=>{const a=i;return k(),l(a,{ref:"book",articles:s.value},null,8,["articles"])}}};export{b as default};
