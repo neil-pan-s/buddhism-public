@@ -1,0 +1,1 @@
+import{W as c,r,X as u,Y as _,f as l,g as p,Z as i,$ as k}from"./index-DjRp6_Z2.js";const b={__name:"Book",setup(m){const o=c(),s=r([]);async function t(){const n=o.params.work,e=o.params.juan||"001",a=await i.book(n,e);s.value=[a]}return u(()=>o.params,t),_(t),(n,e)=>{const a=k;return l(),p(a,{ref:"book",articles:s.value},null,8,["articles"])}}};export{b as default};
