@@ -1,1 +1,0 @@
-import{L as e,f as a,g as t,V as c}from"./index-DjRp6_Z2.js";const n={};function s(o,_){const r=c;return a(),t(r,{category:o.$route.params.category,works:o.$route.params.works},null,8,["category","works"])}const u=e(n,[["render",s]]);export{u as default};
