@@ -1,4 +1,4 @@
-import{f as n,g as s,a2 as i}from"./index-CegJ2af1.js";const p={__name:"Mantra",setup(e){const a=[{title:"常颂经咒-序言",text:`
+import{o as n,c as s,b as e}from"./app-COE7Devr.js";import{u as i}from"./BInWaZ_C.js";const u={__name:"Mantra",setup(o){i({title:"::: 大藏经 | 真言 :::"});const t=[{title:"常颂经咒-序言",text:`
     <center style="font-size: 16px">
       <img src="/icons/favicon.svg" style="width: 128px;" />
       <h3>佛经与咒言  从本质上说  都是佛教的修行法门</h3>其目的都是 <span class="highlight">教世人如何 出离世间苦海  成就佛道</span> 
@@ -102,4 +102,4 @@ import{f as n,g as s,a2 as i}from"./index-CegJ2af1.js";const p={__name:"Mantra",
     `,note:`阿弥陀佛一字心咒是阿弥陀佛摄引众生往生极乐世界的心咒，也叫弥陀心印，持诵可灭除厄难业障，命终蒙佛接引往生极乐世界，且可得上品上生。
 
       阿弥陀佛是法界藏身，一佛等于一切佛，所以南无阿弥陀佛名号蕴藏着阿弥陀佛的功德，也就等于蕴藏着十方三世一切诸佛的功德，所以念这句名号就等于念到了一切诸佛所有的一切，所以这就叫万德洪名。
-    `,audio:"/audios/阿弥陀佛心咒.mp3"}];return(o,h)=>{const t=i;return n(),s(t,{articles:a,options:{mantra:!0},class:"font-family-app"})}}};export{p as default};
+    `,audio:"/audios/阿弥陀佛心咒.mp3"}];return(h,l)=>{const a=e;return n(),s(a,{articles:t,options:{mantra:!0},class:"font-family-app"})}}};export{u as default};
