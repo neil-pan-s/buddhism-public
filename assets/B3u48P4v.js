@@ -1,4 +1,4 @@
-import{o as n,c as s,b as e}from"./app-DhoPByFE.js";import{u as i}from"./CYm_fe2q.js";const u={__name:"Mantra",setup(o){i({title:"::: 大藏经 | 真言 :::"});const t=[{title:"常颂经咒-序言",text:`
+import{o as n,c as s,f as e}from"./app-CWt1QT0N.js";import{u as i}from"./CMjYN6K4.js";const u={__name:"Mantra",setup(o){i({title:"::: 大藏经 | 真言 :::"});const t=[{title:"常颂经咒-序言",text:`
     <center style="font-size: 16px">
       <img src="/icons/favicon.svg" style="width: 128px;" />
       <h3>佛经与咒言  从本质上说  都是佛教的修行法门</h3>其目的都是 <span class="highlight">教世人如何 出离世间苦海  成就佛道</span> 
