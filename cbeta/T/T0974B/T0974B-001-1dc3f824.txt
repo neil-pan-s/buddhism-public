@@ -1,0 +1,71 @@
+@{佛頂尊勝陀羅尼}@
+%{佛顶尊胜陀罗尼}%
+
+@{◇namobhagavatetrailokyāprativiśiṣṭayabuddhāyabhagavatetadyathāoṃviśodhayaviśodhayasamasamasamantāvabhasaspharaṇagatigahānasvābhāvaviśuddhe◇}@
+%{南无薄伽梵特赖洛迦阿毗尸悉陀耶佛陀耶薄伽梵，怛侄他唵， विशोधय विशोधय सम सम समन्त अभास स्फरण गति गहन स्वभाव विशुद्धे}%
+
+@{abhiṣiṃcatumāṃsugatavaravacanaamṛtābhiṣaikaimahāmantrapadai◇}@
+%{阿鼻悉昙， मा सुगत वर वचन अमृत अभिषेकै महा मन्त्र पदै}%
+
+@{āharaaharaāyuḥsandhāraṇiśodhayaśodhayagaganaviśuddheuṣṇīṣavijayaviśuddhesahasrarasmisaṃcoditesarvatathāgatāvalokaniṣaddhāramitāparipraraṇisarvatathāgatahṛdayādhiṣṭanadhiṣṭita◇}@
+%{आहर आहर आयुः संधारण विशोधय विशोधय गगन विशुद्धे उष्णिस विजय विशुद्धे सहस्र रश्मि संचोदित सर्व तथागत अवलोकन निषद्ध परमिता परिप्ररण सर्व तथागत हृदय अधिष्ठान अधिष्ठित}%
+
+@{mahāmudrivajrakāyasaṃhātanaviśuddhesarvavaraṇi◇}@
+%{महा मुद्रि वज्र काय संहतन विशुद्धे सर्व वरणि}%
+
+@{payadrargatipariviśuddhepratinivartta◇}@
+%{पयद्र अर्गति परि विशुद्धे प्रति निवर्त}%
+
+@{yaāyuḥśuddhesamayadhiṣṭatemaṇimaṇimahāmaṇitathātābhūtakoṭipariśuddhevisphuṭa◇}@
+%{य आयुः शुद्धे समय अधिष्ठात एमनि एमनि महा मणि ताता भूता कोटि परि शुद्धे विष्फुट}%
+
+@{buddhiśuddhejayajaya◇}@
+%{बुद्धि शुद्धे जय जय}%
+
+@{vijayavijayasmarasmarasarvabuddhānamovipaśyanetathāgatāya◇}@
+%{विजय विजय स्मर स्मर सर्व बुद्धा नमो विपश्यन्त तथागतय}%
+
+@{namośikhinetathāgatāya◇}@
+%{नमो शिखिन तथागतय}%
+
+@{namoviśabhūtathāgatāya◇}@
+%{नमो विश भूत तथागतय}%
+
+@{namokrakasaṃdhayatathāgatāyanamokanakamuṇiyetathāgatāyanamokaśyapayātathāgatāya◇}@
+%{नमो क्रकस संधय तथागतय नमो कनक मुनि तथागतय नमो कशय पय तथागतय}%
+
+@{namośakyamuniyetathāgatāyanamoāryavalokiteśvarayabodhisatva◇}@
+%{नमो शक्य मुनि तथागतय नमो आर्य अवलोकितेश्वरय बोधिसत्व}%
+
+@{dhiṣṭitaśuddhevajrivajragarbhevajrāṃbhāvatumamaśariraṃsarvasatvanaṃcakayapariviśuddhesarvagatipariśuddhe◇}@
+%{अधिष्ठित शुद्धे वज्रि वज्र गर्भे वज्र अंभा वतु माम शरीरं सर्व सत्व नाम चकय परि विशुद्धे सर्व गति परि विशुद्धे}%
+
+@{sarvatathāgatāścamesamaśvasayaṃtusarvatathāgatasamāśvasādhiṣṭatebuddhyabuddhyavibuddhyavibuddhya◇}@
+%{सर्व तथागत अस्च मे सम अश्वासयन्तु सर्व तथागत समाश्वास अधिष्ठात बुद्धि बुद्धि विबुद्धि विबुद्धय}%
+
+@{bodhayabodhayavibodhayavibodhaya◇}@
+%{बोधय बोधय विबोधय विबोधय}%
+
+@{samantapariśuddhe◇}@
+%{समन्त परि शुद्धे}%
+
+@{sarvatathāgatahṛdayādhiṣṭanadhiṣṭata◇}@
+%{सर्व तथागत हृदय अधिष्ठान अधिष्ठित}%
+
+@{mahāmudri◇}@
+%{महा मुद्रि}%
+
+@{svāhā◇}@
+%{स्वाहा}%
+
+@{samapta}@
+%{सम्पत}%
+
+@{師云：此陀羅尼凡有九本，所謂杜行鎧、月照三藏、義淨三藏、佛陀波利、善無畏三藏、金剛智三藏、不空三藏等所譯本，及法崇注釋，弘法大師所傳梵本等也。之中今以弘法大師梵本與金剛智三藏所譯加字具足漢字本所雙書也。件梵本是弘法大師在唐之日，惠果阿闍梨所授多羅葉梵本也。七佛及觀音梵號裁干此中，異他梵本也。後人知之。}@
+%{师父说：这陀罗尼一共九种版本，分别是杜行铠、月照三藏、义净三藏、佛陀波利、善无畏三藏、金刚智三藏、不空三藏等等翻译的版本，还有法崇的注解，弘法大师传下来的梵文版本等等。现在把弘法大师的梵文版本和金刚智三藏翻译的加字完整的汉字版本放在一起，做成双书。这个梵文版本是弘法大师在唐朝的时候，惠果阿阇梨传授的多罗叶梵文版本。七佛和观世音的梵文名字，只有这个版本里有，其他梵文版本都没有。后人应该知道这件事。}%
+
+@{佛頂尊勝陀羅尼}@
+%{佛顶尊胜陀罗尼}%
+
+@{建久二年辛}@
+%{建久二年辛}%

@@ -81,43 +81,40 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
+    "url": "assets/15va7B2U.js",
+    "revision": null
+  }, {
+    "url": "assets/4Wf2v_Sy.js",
+    "revision": null
+  }, {
     "url": "assets/ai-WaZgaUjF.png",
     "revision": null
   }, {
-    "url": "assets/app-CWt1QT0N.js",
+    "url": "assets/app-DD5MMWWg.js",
     "revision": null
   }, {
     "url": "assets/app-DMxkV--P.png",
     "revision": null
   }, {
-    "url": "assets/B3u48P4v.js",
+    "url": "assets/BgzhzJCp.css",
     "revision": null
   }, {
-    "url": "assets/BD-4rJ79.js",
+    "url": "assets/BI2RfYwo.js",
     "revision": null
   }, {
     "url": "assets/BinRtZV-.js",
     "revision": null
   }, {
-    "url": "assets/C5seuc6F.js",
+    "url": "assets/BWTaPm4_.js",
     "revision": null
   }, {
-    "url": "assets/CMjYN6K4.js",
-    "revision": null
-  }, {
-    "url": "assets/CU45yI3U.css",
-    "revision": null
-  }, {
-    "url": "assets/D6scTVsA.js",
-    "revision": null
-  }, {
-    "url": "assets/D7-DZF2H.js",
+    "url": "assets/CBBpFBV6.js",
     "revision": null
   }, {
     "url": "assets/Deby6LJH.css",
     "revision": null
   }, {
-    "url": "assets/Dk7MlfdZ.css",
+    "url": "assets/Dm5KVz70.css",
     "revision": null
   }, {
     "url": "assets/donate-iTAF6ci1.jpg",
@@ -136,6 +133,9 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "revision": null
   }, {
     "url": "assets/temple-CUGiJfxu.jpg",
+    "revision": null
+  }, {
+    "url": "assets/xaI0-fLf.js",
     "revision": null
   }, {
     "url": "icons/apple-touch-icon-180x180.png",
@@ -460,157 +460,157 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "revision": "f571ef14749fbb128c4b651d36289cd3"
   }, {
     "url": "sutra/0001-0151.html",
-    "revision": "4db38c1c7b828e969191a576f7bdb013"
+    "revision": "7d1ff2fc9afdc9a86851bef636e4cae8"
   }, {
     "url": "sutra/0152-0219.html",
-    "revision": "08d563178278e87e46082e14555bcd11"
+    "revision": "c3c528eec9635d9cde0be2f80ab4c43c"
   }, {
     "url": "sutra/0220-0261.html",
-    "revision": "45b8c73400002a6e15ab88c9052295ff"
+    "revision": "92cd6299102eb82dd20a1d48bfd70c71"
   }, {
     "url": "sutra/0262-0277.html",
-    "revision": "3b564984afcb06f5e657d155c2216def"
+    "revision": "0ab67947b2b3dc0b089d3800e24e74d1"
   }, {
     "url": "sutra/0278-0309.html",
-    "revision": "c58decc1129ce5c6b3fad47c1ec4692c"
+    "revision": "bdf400c6a8810ab112dba0645947e458"
   }, {
     "url": "sutra/0310-0373.html",
-    "revision": "44e97422e9562853f83dc751c9af6b1a"
+    "revision": "73b1a9935af50d5c53ab4846f32a9295"
   }, {
     "url": "sutra/0374-0396.html",
-    "revision": "4e60be137ce8941fcf541efa2372e238"
+    "revision": "8d4f7ad4ad21e1007b9266a6c793eea7"
   }, {
     "url": "sutra/0397-0424.html",
-    "revision": "46fa56429b94898d55a13e51e41e03ca"
+    "revision": "5d89a1e9bea0516a3eca3525b4f80e68"
   }, {
     "url": "sutra/0425-0847.html",
-    "revision": "6f0c418dfe1a82cdbff121b5610de7c7"
+    "revision": "6a214462ac759eefecb1c436d97b056b"
   }, {
     "url": "sutra/0848-1420.html",
-    "revision": "8d95a8ad6218b8af06368556e8646e9c"
+    "revision": "60257123e7d33e1c83b6a354f328bd5b"
   }, {
     "url": "vinaya/1421-1504.html",
-    "revision": "0d501e60f90ec5f73df073bc2638f21b"
+    "revision": "3bff921d428c623f7ede2c518401653c"
   }, {
     "url": "sastra/1505-1535.html",
-    "revision": "c15a8d3d101944195c7e67f480c4d9f9"
+    "revision": "133c3919ea949264c9fa06669c919de1"
   }, {
     "url": "sastra/1536-1563.html",
-    "revision": "c2e6fe02a998cd0b7616defacf51c4b8"
+    "revision": "7db74f26878b5eee915fe25b300c0fb1"
   }, {
     "url": "sastra/1564-1578.html",
-    "revision": "447b1fdb18bf9f4ee222f476c0161a61"
+    "revision": "5f9628e09afdc282f5543faa8686258a"
   }, {
     "url": "sastra/1579-1627.html",
-    "revision": "5fafe37fd3eab298b14f7f6cca2662cb"
+    "revision": "f0969601e904d89032d4038253762131"
   }, {
     "url": "sastra/1628-1692.html",
-    "revision": "f5d926f022ad5877f1df5442773bcd0d"
+    "revision": "f663d03ad7c110936e90de87bd571826"
   }, {
     "url": "other/1693-1803.html",
-    "revision": "fe9aaf18369a232f66bbd8fc0dd52343"
+    "revision": "487500c09d4d1aabf1d74a78ca078795"
   }, {
     "url": "other/1804-1815.html",
-    "revision": "07695dee861667b6dec7494a408fce0d"
+    "revision": "000b592195ab46c2498c4c630a47999d"
   }, {
     "url": "other/1816-1850.html",
-    "revision": "e5661041da540df809b93755ae2480b7"
+    "revision": "259fb629014183689248ae01bbaa4f7f"
   }, {
     "url": "other/1851-2025.html",
-    "revision": "368e431b5d12b78e7610d9fe16ee6417"
+    "revision": "cc5a4d59e13cd0fee2b1ff5319ba9593"
   }, {
     "url": "other/2026-2120.html",
-    "revision": "ce2a0e10e249ffe8fd924d073623ec29"
+    "revision": "9ac56788937bc8aad4dd056ad5392a8e"
   }, {
     "url": "other/2121-2136.html",
-    "revision": "243d02365cc85911f65a5cf177817c1a"
+    "revision": "e312c1d32137ce94907264ae3338655d"
   }, {
     "url": "other/2137-2144.html",
-    "revision": "cc2a57233640ed77e840fefbceddc8f8"
+    "revision": "ba31b56322e07816d6ea0235d179707c"
   }, {
     "url": "other/2145-2184.html",
-    "revision": "90e5cd8942d94d5a9e091ef41af946df"
+    "revision": "7b3442f0cdb6d6d4091082c828ef30de"
   }, {
     "url": "other/2732-2864.html",
-    "revision": "cb2bf56b2a46c8c8a3180b79e6be5f11"
+    "revision": "ea86b7094552483111be2dd60d64ea73"
   }, {
     "url": "other/2865-2920.html",
-    "revision": "62e673a2161664c6ffd2b256d620b01e"
+    "revision": "d18d2669dd0d8b116b2ea3e2d569006d"
   }, {
     "url": "hot/0001/001.html",
-    "revision": "5997f14c4ee6adaaf0e0d5b6184dfe71"
+    "revision": "cb3721fb81327aca853038d39aa57ce2"
   }, {
     "url": "hot/0235/001.html",
-    "revision": "19f7d1dde4c5f342e6e11cbeddedda29"
+    "revision": "0a035e402f5f8fb52201c3e041f6f425"
   }, {
     "url": "hot/0251/001.html",
-    "revision": "3d9f03d9d4a4ca8d1cdea3a8c24c5197"
+    "revision": "e5a45d519a4189b9d5abc20eacd8d933"
   }, {
     "url": "hot/0262/001.html",
-    "revision": "e068a2215ab8009a4d08ba661c977f85"
+    "revision": "f1df204784102772e44194278b1d7b3f"
   }, {
     "url": "hot/0278/001.html",
-    "revision": "336251fcdd91dc584314bbc8ee851f16"
+    "revision": "d77093544628aaa0441dab52c86dbc76"
   }, {
     "url": "hot/0364/001.html",
-    "revision": "160f69440218a4fb6f20542e42bcd0c1"
+    "revision": "b2e25d9dbf6a8e0cc5948ba56c5ce964"
   }, {
     "url": "hot/0365/001.html",
-    "revision": "7d095d07b14f2523defbeb5e67c6752e"
+    "revision": "2710aec4ce1aec0af5bd4b46836924ed"
   }, {
     "url": "hot/0366/001.html",
-    "revision": "085b8a315f413be3d2053c8ef4fb5a47"
+    "revision": "93385c3f1ffda83d3b51e6e6448521c0"
   }, {
     "url": "hot/0412/001.html",
-    "revision": "c990369ad1094a957fbac4460974f193"
+    "revision": "ee68287d386c8cf2f758602a575c7760"
   }, {
     "url": "hot/0784/001.html",
-    "revision": "0a1a542dc02c19ad3f2b9a1a68054ec2"
+    "revision": "ecdecd488a6960fab27efe47eb50c9be"
   }, {
     "url": "hot/0945/001.html",
-    "revision": "3034388573f6faaef0f4c23396afe928"
+    "revision": "b017425b18a808d09b474132c69f8a26"
   }, {
     "url": "hot/1911/001.html",
-    "revision": "6df3925301e0144b3bdd559330cd89ba"
+    "revision": "122c518c10110086aabd1a40ec528484"
   }, {
     "url": "hot/2016/001.html",
-    "revision": "b35e0996dd99cb250e3567f8a4a25294"
+    "revision": "8151849b2ee6f7b19bef902083065316"
   }, {
     "url": "about.html",
-    "revision": "09b64d005e581e8a3daaed593537861e"
+    "revision": "27368748d3b6042cd375fb6196c3384b"
   }, {
     "url": "adobe-webfont.js",
     "revision": "7c043b1ce65979545de8579aa667e2ea"
   }, {
     "url": "book.html",
-    "revision": "fee4dae814b2b993980c8f03f92f8283"
+    "revision": "05f2f1125b684036ce95c292294e9f7d"
   }, {
     "url": "category.html",
-    "revision": "3bb0e2c79ba7c95198bcd6fa60c1e903"
+    "revision": "2e2e785969023c40d9ba511eb6c0a287"
   }, {
     "url": "chat.html",
     "revision": "757cca0652c0c0eb526bee81489598fd"
   }, {
     "url": "index.html",
-    "revision": "65620fa6ddb571621492a81ff6b2a0c0"
+    "revision": "b22c9fe3ba511162d62afb19fad97719"
   }, {
     "url": "mantra.html",
-    "revision": "d0001bde6a763d602099a09d5feb54e3"
+    "revision": "ba221ee33d1b43878180b38ef26eacb0"
   }, {
     "url": "other.html",
-    "revision": "90c05064fe9807d36931ff8149518c07"
+    "revision": "3a48f7c8184503a7b2b3e4d7fef41f8e"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
   }, {
     "url": "sastra.html",
-    "revision": "1a3c093db13229088bca419529344654"
+    "revision": "9f90bff8e8d0724912bc32636f736120"
   }, {
     "url": "sutra.html",
-    "revision": "18ffa4cb987f11462f47229c21661dc1"
+    "revision": "3f8e4a4996609b024c2c67acb7a5f5b9"
   }, {
     "url": "vinaya.html",
-    "revision": "29f3de9a1b5310ea4bb01791a929af6a"
+    "revision": "31ae661e444beb7ec0df44f3f06eba18"
   }, {
     "url": "icons/pwa-192x192.png",
     "revision": "84d057d02988a04f91e126f6400acbab"
